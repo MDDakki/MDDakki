@@ -4,7 +4,7 @@
 
 ###
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mddakki&" alt="mddakki" /></p>
+<a href="http://www.github.com/MDDakki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MDDakki&stroke=14b8a6&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a
 </div>
 
 ###
