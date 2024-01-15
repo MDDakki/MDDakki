@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MDDakki/count.svg?"  />
-</div>
 
 ###
 <div align="center">
-<a href="http://www.github.com/MDDakki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MDDakki&stroke=14b8a6&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a
+<a href="http://www.github.com/MDDakki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MDDakki&stroke=0891b2&background=171717&ring=64748b&fire=64748b&currStreakNum=0891b2&currStreakLabel=64748b&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 </div>
 
 ###
